@@ -34,7 +34,7 @@ Most student AI portfolios stop at a notebook with a validation curve. Mine does
 ### Right now
 
 - 🧠 Scoping my **Final Year Project** 
-- 📘 Working through Géron's *Hands-On ML* 
+- 📘 Working through Gerons *Hands-On ML* 
 - 🚁 Off-script but deliberate: teaching myself electronics → STM32/FreeRTOS → control theory
 
 ---
@@ -42,7 +42,7 @@ Most student AI portfolios stop at a notebook with a validation curve. Mine does
 ### Stack
 
 **AI / ML**
-`Deep Learning` `Computer Vision` `Vision Transformers` `YOLOv5 / YOLOv8` `Reinforcement Learning` `Generative AI` `Anomaly Detection`
+`Deep Learning` `Computer Vision` `Digital Image Processing` `Vision Transformers` `YOLOv5 / YOLOv8` `Reinforcement Learning` `Generative AI` `Anomaly Detection`
 
 **Frameworks**
 `PyTorch` `TensorFlow / Keras` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `OpenCV` `Hugging Face` `Optuna`
