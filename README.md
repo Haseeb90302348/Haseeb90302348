@@ -45,7 +45,7 @@ Most student AI portfolios stop at a notebook with a validation curve. Mine does
 `Deep Learning` `Computer Vision` `Digital Image Processing` `Vision Transformers` `YOLOv5 / YOLOv8` `Reinforcement Learning` `Generative AI` `Anomaly Detection`
 
 **Frameworks**
-`PyTorch` `TensorFlow / Keras` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `OpenCV` `Hugging Face` `Optuna`
+`Gym` `PyTorch` `TensorFlow / Keras` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `OpenCV` `Hugging Face` `Optuna`
 
 **Systems**
 `CUDA` `C++` `Python` `FastAPI` `Flask` `Docker` `Linux` `SQL`
